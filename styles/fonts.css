@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "MS";
+    src: url(../fonts/Montserrat-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "MS";
+    src: url(../fonts/Montserrat-Thin.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "MRP";
+    src: url(../fonts/Myriad-Pro_31655.ttf);
+}
+
+@font-face {
+    font-family: "NUN";
+    src: url(../fonts/NunitoSans-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "WS";
+    src: url(../fonts/WorkSans-Regular.ttf);
+    font-weight: 400;
+}
+

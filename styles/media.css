@@ -1,0 +1,274 @@
+@media (max-width: 991px) {
+    .header__title {
+        font-size: 34px;
+        margin-bottom: 25px;
+    }
+
+    .menu__link {
+        margin-left: 0;
+        margin-top: 15px;
+    }
+
+    .skills__info {
+        padding-left: 70px;
+        padding-right: 65px;
+    }
+
+    .skills__img {
+        height: 500px;
+    }
+
+    .work-process__image {
+        height: 520px;
+    }
+
+    .work-process__image_play  {
+        max-width: 75px;
+    }
+
+    .form-input_name , .form-input_email {
+        max-width: 300px;
+    }
+
+    .footer__networks {
+        margin-top: 40px;
+    }
+
+}
+
+@media (max-width: 841px) {
+    .skills__info {
+        padding-left: 55px;
+    }
+}
+
+@media (max-width: 767px) {
+    .skills {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .about-us__info {
+        padding-top: 65px;
+    }
+
+    .skills__info {
+        padding-top: 100px;
+        margin-bottom: 60px;
+    }
+
+    .skills {
+        flex-direction: column;
+    }
+
+    .skills__img , .skills__info {
+        width: 100% !important;
+    }
+
+    .skills__img {
+        height: 350px;
+        margin-bottom: 60px;
+    }
+
+    .content__items {
+        padding-top: 50px;
+        margin-bottom: 36px;
+    }
+
+    .content__item {
+        margin-bottom: 20px;
+    }
+
+    
+    .content__images {
+        padding: 5px;   
+        background: var(--white);
+    }
+
+    .content__link {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    .work-process__image {
+        height: 480px;
+    }
+
+    .work-process__quote {
+        padding-top: 140px;
+    }
+
+    .work-process__paragraph_name {
+        margin-bottom: 60px;
+    } 
+    
+    .carousel-indicators {
+        margin-bottom: 40px;
+    }
+
+    .advert__item {
+        margin-bottom: 64px;
+    }
+
+    .advert {
+        padding-bottom: 5px;
+    }
+
+    .feedback__desc_padding {
+        padding-left: 15px;
+    }
+
+    .form-input_name , .form-input_email {
+        max-width: 210px;
+    }
+}
+
+@media (max-width: 575px) {
+    .header__info {
+        text-align: center;
+    }
+
+    .header__title {
+        font-size: 33px;
+        margin-bottom: 20px;
+    }
+
+    .header__description {
+        font-size: 14.3px;
+    }
+
+    .btn {
+        margin: auto;
+    }
+
+    .about-us__info {
+        padding-top: 45px;
+    }
+
+    .about-us__title {
+        margin-bottom: 20px;
+    }
+
+    .about-us__description {
+        margin-bottom: 40px;
+    }
+
+    .skills__info {
+        padding-top: 70px;
+    }
+
+    .content__icon {
+        font-size: 42px;
+    }
+
+    .content__title {
+        font-size: 16px;
+    }
+
+    .about-us__more a {
+        font-size: 16px;
+    }
+
+    .row {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    
+    .work-process__info {
+        margin-bottom: 70px;
+    }
+
+    .work-process__title {
+        font-size: 38px;
+        margin-top: 70px;
+        margin-bottom: 10px;
+        padding: 0 5px;
+    }
+
+    .work-process__description {
+        font-size: 20px;
+        margin-bottom: 30px;
+        padding: 0 5px;
+    }
+
+    .work-process__image {
+        height: 400px;
+    }
+
+    .work-process__image_play  {
+        max-width: 65px;
+    }
+
+    .work-process__content {
+        padding-top: 85px;
+    }
+
+    .work-process__quote {
+        padding-top: 80px;
+    }
+
+    .form-input_name , .form-input_email {
+        max-width: 468px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .footer__contacts {
+        margin-top: 30px !important;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+}
+
+@media (max-width: 407px) {
+    .invisible-col {
+        display: none;
+    }
+
+    .content__item {
+        max-width: 356px;
+        width: 100%;
+    }
+
+    .work-process__image {
+        height: 340px;
+    }
+
+    .work-process__image_play {
+        max-width: 55px;
+    }
+}
+
+@media (max-width: 390px) {
+    .btn {
+        padding: 15px 35px 14px 25px;
+    }
+
+    .about-us__info {
+        padding-top: 37px;
+    }
+
+    .skills__info {
+        padding-top: 50px;
+        margin-bottom: 40px;
+        padding-left: 10px;
+        padding-right: 10px;
+        margin: 0 auto 40 auto;
+    }
+
+    .skills__description {
+        margin-top: 25px;
+    }
+
+    .skills__img {
+        height: 250px;
+        margin-bottom: 40px;
+    }
+    
+    .work-process__image {
+        height: 300px;
+    }
+
