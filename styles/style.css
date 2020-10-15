@@ -279,6 +279,10 @@
         max-width: 85px;
         width: 100%;
     }
+
+    .work-process__image_play:hover {
+        filter: brightness(140%);
+    }
 /* WORK-PROCESS INFO end */
 
 /*WORK-PROCESS CONTENT start  */
